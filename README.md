@@ -9,6 +9,7 @@
 4. 修改CNAME，或者删掉这个文件，使用默认域名
 5. 修改`_config.yml`配置项
 6. It's done!
+
 客模板来自于:[https://github.com/suyan/suyan.github.io](https://github.com/suyan/suyan.github.io)
 
 ### 分支说明
