@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[https://github.com/NE0T12/suyan.github.io](https://github.com/NE0T12/suyan.github.io)
+地址：[https://github.com/NE0T12/NE0T12.github.io](https://github.com/NE0T12/NE0T12.github.io)
 
 ### 安装说明
 1. fork库到自己的github
