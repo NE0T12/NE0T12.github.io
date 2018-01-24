@@ -10,7 +10,7 @@
 5. 修改`_config.yml`配置项
 6. It's done!
 
-客模板来自于:[https://github.com/suyan/suyan.github.io](https://github.com/suyan/suyan.github.io)
+博客模板来自于:[https://github.com/suyan/suyan.github.io](https://github.com/suyan/suyan.github.io)
 
 ### 分支说明
 
